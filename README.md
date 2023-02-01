@@ -1,5 +1,5 @@
 # Realtime Speech-to-Text Transcription Demo
-A simple CLI realtime speech-to-text transcription using Whisper.
+A simple realtime speech-to-text transcription from your microhpone using Whisper.
 
 This uses the idea from the [whisper_real_time](https://github.com/studentofkyoto/whisper_real_time) to record audio in a background thread and concatenating the raw bytes over multiple recordings.
 

@@ -3,7 +3,7 @@ A simple realtime speech-to-text transcription from your microhpone using Whispe
 
 This uses the idea from the [whisper_real_time](https://github.com/studentofkyoto/whisper_real_time) to record audio in a background thread and concatenating the raw bytes over multiple recordings.
 
-Also, my fork of whisper [whisper-lang-selection](https://github.com/kimaust/whisper-lang-selection) is used to support a selection of languages to detect.
+Also, my fork of whisper [whisper-lang-selection](https://github.com/kimaust/whisper-lang-selection) is used to support a selection of languages to detect in your speech.
 
 # Setup
 Create a virtual environment using the following command:
